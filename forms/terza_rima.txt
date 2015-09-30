@@ -1,0 +1,30 @@
+Invented by the Italian poet Dante Alighieri in the late thirteenth century to structure his three-part epic poem, The Divine Comedy, terza rima is composed of tercets woven into a rhyme scheme that requires the end-word of the second line in one tercet to supply the rhyme for the first and third lines in the following tercet. Thus, the rhyme scheme (aba, bcb, cdc, ded) continues through to the final stanza or line. Dante chose to end each canto of the The Divine Comedy with a single line that completes the rhyme scheme with the end-word of the second line of the preceding tercet.
+
+Terza rima is typically written in an iambic line, and in English, most often in iambic pentameter. If another line length is chosen, such as tetrameter, the lines should be of the same length. There are no limits to the number of lines a poem composed in terza rima may have.
+
+Possibly developed from the tercets found in the verses of Provencal troubadours, who were greatly admired by Dante, the tripartite stanza likely symbolizes the Holy Trinity. Early enthusiasts of terza rima, including Italian poets Boccaccio and Petrarch, were particularly interested in the unifying effects of the form
+
+Fourteenth-century English poet Geoffrey Chaucer introduced terza rima to England with his poem “Complaints to his Lady," while Thomas Wyatt is credited, with popularizing its use in the English language through his translations and original works. Later, the English Romantic poets experimented with the form, including Lord Byron and Percy Bysshe Shelley, whose “Ode to the West Wind” is an example of what is sometimes called “terza rima sonnet," in which the final stanza comes in couplet form. A clever mixture of poetic techniques, the poem is a series of five terza rima sonnets, of which the following is the first:
+
+     0 wild West Wind, thou breath of Autumn’s being,
+     Thou, from whose unseen presence the leaves dead
+     Are driven, like ghosts from an enchanter fleeing,
+
+     Yellow, and black, and pale, and hectic red,
+     Pestilence-stricken multitudes: 0 thou,
+     Who chariotest to their dark wintry bed
+
+     The wingèd seeds, where they lie cold and low,
+     Each like a corpse within its grave, until
+     Thine azure sister of the Spring shall blow
+
+     Her clarion o’er the dreaming earth, and fill
+     (Driving sweet buds like flocks to feed in air)
+     With living hues and odours plain and hill:
+
+     Wild Spirit, which art moving everywhere;
+     Destroyer and Preserver; hear, 0 hear!
+
+Twentieth-century examples of terza rima come in two different forms: poets who have written in the form and scholars and poets who have translated Dante. Those who have written in terza rima usually employ near and slant rhymes, as the English language, though syntactically quite versatile, is rhyme poor. “The Yachts” by William Carlos Williams and “Acquainted with the Night” by Robert Frost are two examples. More recent works written in terza rima include “The Sow” by Sylvia Plath and the eponymous “Terza Rima” by Adrienne Rich.
+
+While there are nearly as many translations of Dante as there are cantos in his masterpiece, the question of how to reproduce the intricate rhyme scheme of terza rima—namely, the reproduction of the rich rhyming possibilities offered by the Italian language—has been a principle concern for translators. John Ciardi chose not to concern his translation with a faithful rendering of the terza rima rhyme scheme; he thought such a gesture would be a “disaster.” Robert Pinsky chose a different approach in his translation of the Inferno, employing a terza rima that rhymed when possible, and used near and slant rhymes in places where the rhyme might seem forced, creating what he called “a plausible terza rima in a readable English.”
