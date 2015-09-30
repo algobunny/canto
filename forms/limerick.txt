@@ -1,0 +1,19 @@
+A popular form in children’s verse, the limerick is often comical, nonsensical, and sometimes even lewd. The form is well known to generations of English-speaking readers, by way of Mother Goose nursery rhymes, first published in 1791. Composed of five lines, the limerick adheres to a strict rhyme scheme and bouncy rhythm, making it easy to memorize.
+
+Typically, the first two lines rhyme with each other, the third and fourth rhyme together, and the fifth line either repeats the first line or rhymes with it. The limerick’s anapestic rhythm is created by an accentual pattern that contains many sets of double weakly-stressed syllables. The pattern can be illustrated with dashes denoting weak syllables, and back-slashes for stresses:
+
+1) - / - - / - - /
+2) - / - - / - - /
+3) - / - - /
+4) - / - - /
+5) - / - - / - - /
+
+Though the origin of the limerick is not entirely known, it has an active, if not long, history. Limericks published in eighteenth-century Mother Goose’s Melodies are thought to be among the oldest. Poets quickly adopted the form and published limericks widely. Among them, Edward Lear’s self-illustrated Book of Nonsense, from 1846, remains a benchmark. He preferred the term “nonsense” to “limerick," and wrote many funny examples, including the following:
+
+     There was an Old Man with a beard,
+     Who said, “It is just as I feared!
+     Two Owls and a Hen,
+     Four Larks and a Wren,
+     Have all built their nests in my beard!”
+
+Other limericks can be found in the work of Lord Alfred Tennyson, Rudyard Kipling, Robert Louis Stevenson, and W.S. Gilbert. A good collection of limericks can be found in the Penguin Book of Limericks edited by E. O. Parrott.
