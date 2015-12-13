@@ -902,10 +902,6 @@
           </Rest>
         </Measure>
       <Measure number="18">
-        <StaffText>
-          <style>System</style>
-          <text>V2</text>
-          </StaffText>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
