@@ -2,25 +2,25 @@ Villanelle Sonnet
 
 A0: If we pulged into this river, will we drown in clarity?
 
-B: Is the world we long to see beyond the barricade?
+B: Where is the world we long to see beyond the barricade?
 
 A1: Do you hear the people sing in solidarity?
 
+~ jet
+A': Racing up as if to break through the clouds, where there is no parity
 
-A': Racing up to the sky where there is no parity
+B': Gravity, law and order spins into retrograde.
 
-B': 
+A0: If the river penetrates the clouds will it break into clarity?
 
-A0: If they pulged into this river, will they rise to clarity?
-
-
-A': sincerity
+~ clouds
+A': Clouds cluster serenity
 
 B':
 
 A1: solidarity
 
-
+~ rain
 A': singularity
 
 B':
