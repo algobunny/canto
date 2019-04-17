@@ -1,5 +1,7 @@
 # Sonnetina Uno
 
+the whole world falls away
+
 # Toppled cappucino love story   
 Our love story is a broken cookie   
 When I halfed the cookie to share with you  
@@ -13,6 +15,8 @@ Coffee seeping through the ungarnished wood
 Our feelings like water transformed to steam
 Our tension breaking through the coffee grinds
 Our love story was not an accident
+
+_redo second stanza with more sweetness_
 
 ## Lorelai in the Great Flood
 Your seduction heist was near mythical
