@@ -14,9 +14,9 @@ B': Gravity, law and order spins into retrograde.
 A0: If the river penetrates the clouds will it break into clarity?
 
 ~ clouds
-A': Clouds cluster serenity
+A': Mist from the peaks descents -  serenity
 
-B':
+B': 
 
 A1: solidarity
 
@@ -25,7 +25,7 @@ A': singularity
 
 B':
 
-A0: If we pulged into this river, will we - clarity?
+A0: If we pulged into this river, will we rise with clarity?
 
 
 A0: Here begins our journey of austerity,
