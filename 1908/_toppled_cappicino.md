@@ -2,18 +2,17 @@
 
 the whole world falls away
 
-# Toppled cappucino love story   
+# Broken Cookie love story   
 Our love story is a broken cookie   
 When I halfed the cookie to share with you  
 offering a peice of my heart, so eagerly tore  
 with blind force that I knock over my cup  
-Sweet gestures seeping into our world  
+Sweet gestures which seeps into our world  
 re-manifest as unruly accidents.  
 
 Our love story is toppled cappucino  
 Coffee seeping through the ungarnished wood  
-Our feelings like water transformed to steam
-Our tension breaking through the coffee grinds
+
 Our love story was not an accident
 
 _redo second stanza with more sweetness_

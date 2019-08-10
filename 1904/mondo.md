@@ -3,7 +3,7 @@ Questions from the wind
 The wind ask the fire as it consumes bits of it, offering a new fragrance: Why is your heart blue?
 Because my friend the log must die for me to exist
 
-The fire embrace the leave in ember before it devours them, and tenderly whispehrs why do you hind the grandelour of your roots?
+The fire embrace the leaves before devouring them, and tenderly whisphers why do you hide the grandelour of your roots?
 Because I am ashamed of kidnapping children of the clouds.
 
 The tree asks the river, why are you in a hurry?

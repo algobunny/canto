@@ -14,6 +14,6 @@ All its shards he will dispose
 Don’t lean in for the scorpion’s kiss   
 Can’t you feel his tail draw you near?  
 It is not his bite you should fear  
-For one touch will send you into the abyss
+For one prick will send you into the abyss
 
 
