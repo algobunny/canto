@@ -13,5 +13,5 @@ until dawn when the gash
 and mishaps of night's past  
 
 these moments are jigsaw pieces  
-(some of which your cat had eaten)  
+some pieces your cat ate last night  
 
